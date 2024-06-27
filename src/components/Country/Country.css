@@ -4,3 +4,25 @@
   text-align: center;
   padding: 2rem;
 }
+
+.onclick-country {
+  border: 4px dotted blue;
+  border-radius: 15px;
+}
+
+.info-country {
+  border: 5px dotted darkslategray;
+  border-radius: 15px;
+}
+
+.ul-country {
+  :hover {
+    cursor: alias;
+    color: red;
+  }
+}
+
+.weather {
+  border: 5px dotted darkolivegreen;
+  border-radius: 15px;
+}

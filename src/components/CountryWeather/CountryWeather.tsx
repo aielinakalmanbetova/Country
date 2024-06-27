@@ -4,7 +4,7 @@ const CountryWeather = () => {
 
   return (
     <div className='weather'>
-      <h2><strong>Погода: </strong></h2>
+      <h2 className='weather'><strong>Погода: </strong></h2>
       <div>
         <p>Температура:°C</p>
         <p>Влажность: %</p>
